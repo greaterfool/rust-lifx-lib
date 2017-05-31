@@ -1,0 +1,6 @@
+[package]
+name = "lifx-lib"
+version = "0.1.0"
+authors = ["marmalade <summit@tutanota.de>"]
+
+[dependencies]
